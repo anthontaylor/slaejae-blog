@@ -1,7 +1,7 @@
-{:site-title           "Slaejae"
+{:site-title           "AJ's Blog"
  :author               "AJ Taylor"
- :description          "This blog is awesome"
- :site-url             "http://anthontaylor.github.io"
+ :description          "AJ's Blog"
+ :site-url             "http://slaejae.com"
  :post-root            "posts"
  :page-root            "pages"
  :post-root-uri        "posts-output"
@@ -20,8 +20,8 @@
  :theme                "blue_centered"
  :resources            ["img"]
  :keep-files           [".git"]
- :disqus?              false
- :disqus-shortname     ""
+ :disqus?              true
+ :disqus-shortname     "slaejae"
  :ignored-files        [#"\.#.*" #".*\.swp$"]
  :posts-per-page       5
  :blocks-per-preview   2
