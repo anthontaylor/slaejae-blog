@@ -14,11 +14,11 @@
  :recent-posts         3
  :post-date-format     "yyyy-MM-dd"
  :archive-group-format "yyyy MMMM"
- :sass-src             []
+ :sass-src             ["themes/lotus/css"]
  :sass-path            "sass"
  :compass-path         "compass"
- :theme                "blue_centered"
- :resources            ["img"]
+ :theme                "lotus"
+ :resources            ["img" "themes/lotus/img"]
  :keep-files           [".git"]
  :disqus?              true
  :disqus-shortname     "slaejae"
